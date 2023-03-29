@@ -10,7 +10,7 @@ from bs4 import BeautifulSoup
 from html5lib import *
 
 
-System.Title("[TikTok Ultimate Bot] DBTechLabs.com")
+System.Title("[TikTok Ultimate BOt] DBTechLabs.com")
 def Banner():
     Banner1 = r"""
 
